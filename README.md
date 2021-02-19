@@ -10,11 +10,14 @@ SOLID prensiplerine uyularak, N Katmanlı yapı üzerine kurulmuş, WebAPI CRUD 
 ## :books: Layers
 ### Entities Layer
 <br>:open_file_folder: `Concrete` <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Brand.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Brand.cs) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Car.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Car.cs) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Color.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Color.cs) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Customer.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Customer.cs) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Rental.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Rental.cs) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [User.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/User.cs) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [Brand.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Brand.cs) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [Car.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Car.cs) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [Color.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Color.cs) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [Customer.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Customer.cs) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [Rental.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/Rental.cs) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [User.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/Entities/Concrate/User.cs) <br>
 ### DataAccess Layer
 <br>:open_file_folder:`DataAccess`<br>
+&nbsp;&nbsp;&nbsp;&nbsp; :open_file_folder:`Abstract`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [Car.cs](https://github.com/abdlkdrS/ReCapProjectWebAPI/blob/master/DataAccess/Abstract/IBrandDal.cs) <br>
+
