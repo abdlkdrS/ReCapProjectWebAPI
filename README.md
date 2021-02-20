@@ -1,4 +1,6 @@
-![banner1](https://user-images.githubusercontent.com/77538256/108569526-11835e80-731d-11eb-9dfa-ff4e45c34b7b.gif)
+<p align="center">
+<https://user-images.githubusercontent.com/77538256/108576050-3089ec80-732d-11eb-831a-80a6e22f4115.gif>
+</p>
 
 Bu proje Kodlama.io tarafından sunulan (Nitelikli) Yazılımcı Geliştirici Yetiştirme Kampı içerisinde edinilen bilgiler ile hazırlanmıştır.
 
