@@ -1,5 +1,5 @@
 <p align="center">
-<https://user-images.githubusercontent.com/77538256/108576050-3089ec80-732d-11eb-831a-80a6e22f4115.gif>
+  <img src="https://user-images.githubusercontent.com/77538256/108576050-3089ec80-732d-11eb-831a-80a6e22f4115.gif" width="800">
 </p>
 
 Bu proje Kodlama.io tarafından sunulan (Nitelikli) Yazılımcı Geliştirici Yetiştirme Kampı içerisinde edinilen bilgiler ile hazırlanmıştır.
